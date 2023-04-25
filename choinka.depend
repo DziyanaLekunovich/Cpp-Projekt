@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1671551616 source:c:\users\37533\desktop\programowanie obiektowe\zaj5\codeblocks\zaj11\main.cpp
+	<iostream>
+	<time.h>
+	"choinka.h"
+
+1671551661 c:\users\37533\desktop\programowanie obiektowe\zaj5\codeblocks\zaj11\choinka.h
+	<iostream>
+	"ozdoba.h"
+
+1671550568 c:\users\37533\desktop\programowanie obiektowe\zaj5\codeblocks\zaj11\ozdoba.h
+	<iostream>
+
